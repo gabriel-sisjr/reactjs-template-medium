@@ -1,0 +1,13 @@
+{
+  "name": "cra-template-authcontext-ts-bootstrap-styled-rcrouter",
+  "version": "0.1.2",
+  "main": "template.json",
+  "keywords": [
+    "react", 
+    "create-react-app",
+    "cra-template",
+    "template",
+    "prettier"
+  ],
+ "files": ["template", "template.json"]
+}
