@@ -1,46 +1,76 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Template ReactJS
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Um teplate quase completo para você baixar e utilizar rapidamente!</p>
+<p align="center">Provider de autenticação utilizando React Context, rotas definidas, estrutura de pastas e muito mais!</p>
 
-## Available Scripts
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/progress-1%25-brightgreen.svg" alt="Progress">
+  </a>
+  <a href="">
+      <img src="https://img.shields.io/github/issues/gabriel-sisjr/reactjs-template-medium">
+  </a>
+  <a href="">
+      <img src="https://img.shields.io/github/issues-pr/gabriel-sisjr/reactjs-template-medium">
+  </a>
+  <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." /></a>
+  <a href="">
+  <img src="https://img.shields.io/github/license/gabriel-sisjr/reactjs-template-medium" alt="License" />
+  </a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#zap-tech-stack">Tecnologias Utilizadas</a> •
+  <a href="#handshake-Contribuição">Contribuição</a> •  
+  <a href="#handshake-Contribuição">Contribuição</a> •  
+  <a href="#art-about-me">Time</a>
+</p>
 
-### `yarn start`
+## **Instruções de instalação**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### 1) Iniciando projeto & Instalando Dev-Dependencias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- 1.1) Crie o projeto com create-react-app ```yarn create react-app seu-projeto --template reactjs-gabrielsisjr-medium```
+- 1.2) `cd seu-projeto` - cd para o diretório do projeto recém-criado.
+- 1.3) Instale os as seguintes dependencias de desenvolvimento 
+  ``` yarn add -D @types/react-dom @types/react-router-dom @types/styled-components```
+- 1.4) Após a instalação desses pacotes, seu projeto está pronto para ser utilizado! 😁
+## :zap: **Tecnologias Utilizadas**
 
-### `yarn test`
+<h1 align="center">
+  <img src="https://www.carlrippon.com/static/ef1348169d5d5331dee271c37275dbc2/14e05/Playing-with-Styled-Components.png" alt="techs" height="150" width="600">
+  <br>
+</h1>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ReactJS](https://github.com/facebook/react)_(100% [Hooks](https://reactjs.org/docs/hooks-intro.html), 0% Classes)_
+- [TypeScript](https://www.typescriptlang.org)
+- [React Router](https://github.com/ReactTraining/react-router)
+- [Styled Components](https://github.com/styled-components/styled-components)
+- [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+- [Superagent](https://github.com/visionmedia/superagent)
+- [Yarn](https://yarnpkg.com)
 
-### `yarn build`
+## :handshake: **Contribuição**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## A fazer:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [ ] Adicionar e configurar Lib para testes
+- [ ] Configuração de ambiente Docker.
+- [ ] Inclusão do Swagger
+- [ ] Outras Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Faça seu Pull Request, ajude o template a melhorar ainda mais!
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :handshake: **Mantenedor**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Gabriel Santana - Dev FullStack - _JS/TS/C#/React/ReactNative_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Instagram: <a href="https://www.instagram.com/gabrielsantana._" target="_blank">`@gabrielsantana._`</a>
+- Email: <a href="mailto:gabriel.sistemasjr@gmail.com" target="_blank"> gabriel.sistemasjr@gmail.com</a>
+- <a href="https://www.github.com/gabriel-sisjr" target="_blank"> GitHub</a>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
