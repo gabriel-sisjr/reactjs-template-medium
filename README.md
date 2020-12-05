@@ -69,7 +69,7 @@ Faça seu Pull Request, ajude o template a melhorar ainda mais!
 
 Gabriel Santana - Dev FullStack - _JS/TS/C#/React/ReactNative_
 
-- Instagram: <a href="https://www.instagram.com/gabrielsantana._" target="_blank">`@gabrielsantana._`</a>
+- Instagram: <a href="https://www.instagram.com/gabriiel.santana._" target="_blank">`@gabriiel.santana._`</a>
 - Email: <a href="mailto:gabriel.sistemasjr@gmail.com" target="_blank"> gabriel.sistemasjr@gmail.com</a>
 - <a href="https://www.github.com/gabriel-sisjr" target="_blank"> GitHub</a>
 
